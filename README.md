@@ -1,6 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=clydip3u&color=f6eacc&label=𑣲𝓒)
-
-
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1443967604820541522/1443989717145227440/Untitled142_20251128222132.png?ex=692b13b8&is=6929c238&hm=acd59295717dbbb2cbd61ffd2323793f5324efb964202b053f9548eecb185f7b&" width="900">
+</p>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/9b/00/c2/9b00c2266a2a01adb6e9dc142bfb2f5e.jpg" width="600">
 </p>
