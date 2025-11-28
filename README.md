@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=clydip3u&color=f6eacc&label=𑣲𝓒)
+
+
 <p align="center">
   <img src="https://i.pinimg.com/1200x/9b/00/c2/9b00c2266a2a01adb6e9dc142bfb2f5e.jpg" width="600">
 </p>
@@ -7,5 +10,5 @@
 </p>
 
 <p align="center">
-  𝑪𝒍𝒚𝒅𝒊/𝑳𝒐𝒖𝒊𝒔𝒆 ⟡ 𝒔𝒉𝒆/𝒉𝒆𝒓
+  𝑪𝒍𝒚𝒅𝒊/𝑳𝒐𝒖𝒊𝒔𝒆 ⟡ 𝑺𝒉𝒆/𝑯𝒆𝒓 ⟡ 𝑰𝒏𝒅𝒐/𝑬𝒏𝒈
 </p>
