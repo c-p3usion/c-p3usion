@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=clydip3u&color=f6eacc&label=𑣲𝓒)
+![Profile views](https://komarev.com/ghpvc/?username=clydip3u&color=ffcbbf&label=𑣲𝓒)
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1443967604820541522/1443997005822038167/Untitled142_20251128230754.png?ex=692b1a82&is=6929c902&hm=3fba081ffe78a508e08d0348bdaf6d92c9903c5bcf375b4bbce9be2b2557651f&" width="1000">
 </p>
