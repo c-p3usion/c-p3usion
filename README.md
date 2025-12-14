@@ -14,7 +14,9 @@
   <hr>
  <p align="center">
   $\color{pink}{\textsf{ ᝰ.ᐟㅤ𝙇𝙄𝙉𝙆𝙎 (wip) }}$ 
-  
+
+   [AƚαႦσσƙ](https://clydipeu.atabook.org/)
+   
  <p align="center">
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wyjdfqqgqnlyggpsdc5ixwc7fu&redirect=true">
