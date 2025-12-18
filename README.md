@@ -2,7 +2,7 @@
 <p align="center"> 
   <img src="https://cdn.discordapp.com/attachments/1443967604820541522/1446910039016079380/Untitled142_20251207000340.png?ex=6935b37b&is=693461fb&hm=c6567dc8edd326773b06c842e6720f2fae54999fb2cf5e49532b626fe6331dd5" width="1000">
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1443967604820541522/1446892151383265410/Untitled144_20251206225209.png?ex=6935a2d2&is=69345152&hm=b7ffeb7bdacc93efee5eba7f64fc25d04ba07f34179d4e3d8c7b7e31ad6eaa54"10">
+  <img src="https://media.discordapp.net/attachments/1443967604820541522/1446892151383265410/Untitled144_20251206225209.png?ex=6944cc12&is=69437a92&hm=bd92c3c1b3ec1a5f8a6e7f689ab8bffded228a4474911a9b0beae9a128f55b81&=&format=webp&quality=lossless&width=963&height=963"10">
 </p>
 <p align="center">
 <img src="https://media.tenor.com/B3uqC9kIDXMAAAAi/cute-shine.gif" width="90"> 
