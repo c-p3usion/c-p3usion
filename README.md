@@ -13,9 +13,27 @@
 
   <hr>
  <p align="center">
-  $\color{pink}{\textsf{ ᝰ.ᐟㅤ𝙇𝙄𝙉𝙆𝙎 (wip) }}$ 
+  $\color{pink}{\textsf{ ᝰ.ᐟㅤ𝙇𝙄𝙉𝙆𝙎 }}$ 
 
-   [AƚαႦσσƙ](https://clydipeu.atabook.org/)
+   <table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://peuuuu.straw.page">
+        Ⲋtɾᥲᥕρᥲgꫀ
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://clydipeu.atabook.org/">
+        Ꭺtᥲᖯꪮꪮk
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+   
    
  <p align="center">
 <p align="center">
