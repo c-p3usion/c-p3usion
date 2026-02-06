@@ -1,8 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=clydip3u&color=ffcbbf&label=𑣲𝓒)
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/1443967604820541522/1446910039016079380/Untitled142_20251207000340.png?ex=696c69bb&is=696b183b&hm=7199bedd0a99ea655bda740ce1933c4e3fd803ff17e5f9e10c35ebfedc445571&" width="1000">
+  <img src="" width="1000">
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1443967604820541522/1446892151383265410/Untitled144_20251206225209.png?ex=696c5912&is=696b0792&hm=d6b2e35f62c9e7c17e15e201360db64c9d809cb96489ff1db82004202b00d83f&"10">
+  <img src="&"10">
 </p>
 <p align="center">
 <img src="https://media.tenor.com/B3uqC9kIDXMAAAAi/cute-shine.gif" width="90"> 
